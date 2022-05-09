@@ -1,0 +1,11 @@
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\bin\Debug\AnNhienShop.Model.dll.config
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\bin\Debug\AnNhienShop.Model.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\bin\Debug\AnNhienShop.Model.pdb
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\bin\Debug\EntityFramework.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\bin\Debug\EntityFramework.xml
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\obj\Debug\AnNhienShop.Model.csproj.AssemblyReference.cache
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\obj\Debug\AnNhienShop.Model.csproj.CoreCompileInputs.cache
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\obj\Debug\AnNhienShop.Model.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Model\obj\Debug\AnNhienShop.Model.pdb

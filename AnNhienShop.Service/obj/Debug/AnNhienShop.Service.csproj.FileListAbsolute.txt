@@ -1,0 +1,12 @@
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\bin\Debug\AnNhienShop.Service.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\bin\Debug\AnNhienShop.Service.pdb
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\bin\Debug\AnNhienShop.Common.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\bin\Debug\AnNhienShop.Model.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\bin\Debug\AnNhienShop.Common.pdb
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\bin\Debug\AnNhienShop.Model.pdb
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\bin\Debug\AnNhienShop.Model.dll.config
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\obj\Debug\AnNhienShop.Service.csproj.AssemblyReference.cache
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\obj\Debug\AnNhienShop.Service.csproj.CoreCompileInputs.cache
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\obj\Debug\AnNhienShop.Service.csproj.CopyComplete
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\obj\Debug\AnNhienShop.Service.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Service\obj\Debug\AnNhienShop.Service.pdb

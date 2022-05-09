@@ -1,0 +1,5 @@
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Common\bin\Debug\AnNhienShop.Common.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Common\bin\Debug\AnNhienShop.Common.pdb
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Common\obj\Debug\AnNhienShop.Common.csproj.CoreCompileInputs.cache
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Common\obj\Debug\AnNhienShop.Common.dll
+D:\KHOALUANTOTNGHIEP\AnNhienShop\AnNhienShop.Common\obj\Debug\AnNhienShop.Common.pdb
